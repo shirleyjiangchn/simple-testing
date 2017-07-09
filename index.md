@@ -1,5 +1,6 @@
 # China’s Ideological Spectrum
-## Jennifer Pan(Stanford) Yiqing Xu(UCSD)
+## Jennifer Pan(Stanford) 
+## Yiqing Xu(UCSD)
 
 The article “China’s Ideological Spectrum” by Jennifer Pan and Yiqing Xu is summarized here:
 
@@ -14,6 +15,7 @@ We uncover three main findings. First, we find that public preferences over poli
 Second, the configuration of preferences across different issues reflects known debates, and the respondents’ estimated latent traits in political values, economic policies and social values, and preference for nationalism are highly correlated with one another, and we refer to these highly correlated, three-dimensional ovoid latent traits as China’s ideological spectrum. Individuals with liberal values are also more likely to welcome market-oriented economic polices, embrace non-traditional values, and less likely to subscribe to nationalism. while the other group are more likely to adopt conservative political values, state-intervened economy, and traditional social values, and more likely to be nationalistic.
 
 Third, we find that China’s ideological spectrum is related to respondent personal and regional characteristics. Using three indices to indicate provincial-level economy, the results reveal positive correlations between liberal preferences and these economic variables at a provincial level. To be concrete, a general pattern is shown that provinces with higher average disposable incomes, more urban residents, and more trade openness tend to have more liberal preferences on average while poorer provinces with lower levels of development and openness tend to have more conservative political preferences on average. And we see similar patterns for the pro-market/non-traditional dimension and the nationalism dimension.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 These results shed light on our understanding of potential opposition to CCP rule. The belief system we identify does not reflect an alignment of pro-regime or anti-regime preferences. Even though those who are better educated and wealthier may prefer changes to China’s current political system, these preferences may not lead to opposition if the CCP maintains the trajectory of market-based economy. Similarly, those who oppose economic reforms—the less educated, the less well-off, those who have benefited less from China’s economic reforms—support the continuation of CCP rule. On the whole, the current configuration of preferences in China does not appear conducive to the development of consolidated opposition to Communist Party rule. 
 
