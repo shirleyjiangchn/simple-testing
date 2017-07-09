@@ -1,6 +1,5 @@
 # China’s Ideological Spectrum
-## Jennifer Pan(Stanford) 
-## Yiqing Xu(UCSD)
+## Jennifer Pan (Stanford)   Yiqing Xu (UCSD)
 
 The article “China’s Ideological Spectrum” by Jennifer Pan and Yiqing Xu is summarized here:
 
